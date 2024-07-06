@@ -1,0 +1,65 @@
+.containerAll {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+.containerImage2{
+
+    display: flex;
+    justify-content: center;
+  
+}
+
+.containerTitle{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+  
+}
+
+.titleDaydream {
+
+    color: rgb(2, 255, 2);
+
+}
+
+.titleLucid {
+
+    color: rgb(179, 13, 179);
+
+}
+
+.titleNightmare {
+
+    color: red;
+
+}
+
+.titleNightterrors {
+
+    color: rgb(141, 1, 1);
+
+}
+
+.titleRecurringdream {
+
+    color: aqua;
+
+}
+
+
+.imgStyle {
+
+    width: 80px;
+    
+
+}
+
+body {
+
+    background-color: #8479c2!important;
+
+}

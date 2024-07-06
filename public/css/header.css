@@ -1,0 +1,29 @@
+.navItems {
+
+    justify-content: end;
+
+}
+
+.navicon {
+
+    width: 30px;
+
+}
+
+.navbar {
+
+    border-bottom: 2px solid black;
+    background-color: white !important;
+}
+
+.anchorStyle {
+
+    color: gray !important;
+
+}
+
+.tipos {
+
+    color: black !important;
+
+}

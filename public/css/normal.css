@@ -1,0 +1,77 @@
+.containerAll {
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 3em;
+}
+
+.imageStyle {
+
+    width:80px;
+
+}
+
+.containerImage {
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1em;
+
+}
+
+.containerItems {
+
+    width: 500px;
+
+}
+
+.containerTitle {
+
+    text-align: center;
+
+}
+
+.containerButton {
+
+    margin-top: 1em;
+
+}
+
+.buttonStyle {
+
+    width: 100%;
+    background-color: #6e60b8;
+    border: 1px solid black;
+}
+
+.buttonStyle:hover, .buttonStyle:active, .buttonStyle:focus {
+
+    background-color: #341ab6;
+    border: 1px solid black !important;
+}
+
+textarea {
+
+
+
+}
+
+.aboutStyle {
+
+    color: green;
+    font-weight: 900;
+    text-align: center;
+
+}
+
+.inputDate {
+
+    margin-bottom: 1em;
+
+}
+
+body {
+
+    background-color: #8479c2!important;
+
+}

@@ -1,0 +1,32 @@
+.divCarousel {
+
+    margin-top: 3em;
+
+}
+
+body {
+
+    background-color: #8479c2!important;
+
+}
+
+.carousel-control-prev-icon {
+
+    background-color: red;
+    border-radius: 40px;
+
+}
+
+.carousel-control-next-icon {
+
+    background-color: red;
+    border-radius: 40px;
+
+}
+
+.card {
+
+    border: 2px solid black !important;
+    box-shadow: 0px 0px 4px 1px gray !important;
+
+}

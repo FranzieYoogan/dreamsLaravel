@@ -1,0 +1,43 @@
+body {
+
+    background-color: #8479c2!important;
+
+}
+
+.table {
+
+      margin-top: 3em;
+      background-color: transparent !important;
+
+}
+
+th {
+
+    background-color: transparent !important;
+
+}
+
+td {
+    background-color: transparent !important;
+
+}
+
+.buttonStyle {
+
+    background-color: transparent;
+    border: none;
+    position: relative;
+    bottom: 1px;
+}
+
+.buttonStyle:hover {
+
+    transform: scale(1.2);
+
+}
+
+.delete {
+
+    width: 24px;
+
+}
